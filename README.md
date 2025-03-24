@@ -1,5 +1,4 @@
-# Lsass-dump-duplicated-handle-with-AES-Encryption
-Lsass dump duplicated handle with AES Encryption
+# Lsass-dump via duplicated handle with AES Encryption 
 
 [LSASS-Dump-Duplication](LSASS-Dump-Duplication/LSASS-Dump-Duplication/LSASS-Dump-Duplication.c) 
 
