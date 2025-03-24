@@ -1,0 +1,25 @@
+﻿  AES.c
+  Decrypt_AES_File.c
+C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(15,13): warning C4047: '=': 'ULONG_PTR' differs in levels of indirection from 'PBYTE'
+C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(16,12): warning C4047: '=': 'ULONG_PTR' differs in levels of indirection from 'PBYTE'
+C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(18,18): warning C4022: 'memcpy': pointer mismatch for actual parameter 2
+C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(19,17): warning C4022: 'memcpy': pointer mismatch for actual parameter 2
+C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(12,13): warning C4047: 'initializing': 'ULONG_PTR' differs in levels of indirection from 'void *'
+C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(13,3): warning C4047: 'initializing': 'ULONG_PTR' differs in levels of indirection from 'void *'
+C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(132,45): warning C4133: 'function': incompatible types - from 'SIZE_T *' to 'PDWORD'
+C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(140,43): warning C4244: 'function': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(147,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'SIZE_T'
+  C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(147,9):
+  consider using '%lld' in the format string
+  C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(147,9):
+  consider using '%Id' in the format string
+  C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(147,9):
+  consider using '%I64d' in the format string
+  
+C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(113,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\Decrypt_AES_File\Decrypt_AES_File.c(114,3): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Decrypt_AES_File.vcxproj -> C:\Users\jsolomon\Desktop\Payloads\backup 2025\LSASS-Dump-Duplication\x64\Release\Decrypt_AES_File.exe
